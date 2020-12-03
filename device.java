@@ -8,25 +8,14 @@
  *
  * @author shahbaz
  */
-public class classPractice {
-    public static void main(String[] args){
+public class device {
     
-    animal tiger=new animal();
-    
-    }
 }
 
 
+class laptop{
 
 
-class animal{
-int legs;
-String name;
-// constructor
-public animal(){
-    
-System.out.println("yes");
+
 
 }
-} 
-

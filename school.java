@@ -15,7 +15,7 @@ public class school {
     int NoOfStudent;
     int NoOfBranch;
     
-    school shahbaz=new school();
+    
     
     }
   

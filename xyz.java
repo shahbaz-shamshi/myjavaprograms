@@ -8,26 +8,31 @@
  *
  * @author shahbaz
  */
-public class objectCreated {
-    
+public class xyz {
     public static void main(String[] args){
-    mobile realme=new mobile();
+  animal tiger=new animal();
+  tiger.animal2();
     
-  school shahbaz=new school();
 }
 }
+class animal{
 
-class mobile{
+    int noOfLegs;
+    String animalName;
+    
+    
+public animal(){
 
-String name;
-int camera;
-int ram;
-int rom;
-String operatingSystem;
 
-public mobile(){
 
-System.out.println("verified");
 }
+
+public static void animal2(){
+System.out.println("shahbaz shamshi");
+
+}
+
+
+
 
 }

@@ -8,23 +8,22 @@
  *
  * @author shahbaz
  */
-public class methodForPractice {
+public class food {
+    
     public static void main(String[] args){
-    diseases coronavirus=new diseases();
+    sweet rasgulla=new sweet();
+    
     
 }
 }
+ class sweet{
+     
+     public sweet(){
+     
+     System.out.println("tasty");
+     
 
-class diseases{
 
- String nameOfDiseases;
- String Symptoms;
- long noOFDeath;
+     }
 
-
-public diseases(){
-
-System.out.println("sahi hai");
-
-}
 }

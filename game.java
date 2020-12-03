@@ -8,23 +8,6 @@
  *
  * @author shahbaz
  */
-public class vehicle {
-    int milege;
-    double speed;
-    String name;
-    int wheel;
+public class game {
     
-    public static void accelerated(){
-    
-    
-    }
-    public static void Break(){
-
-
-
-   }
-    
-    
-    
-    
-   }
+}
