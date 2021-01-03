@@ -40,7 +40,7 @@ public class arraysortusingmethod {
     }
     
     
-   public static  int[] ascending(int array[]){
+   public static  int[] ascending(int[] array){
         int size=array.length;
       
           int s;
