@@ -8,7 +8,7 @@
  *
  * @author shahbaz
  */
-public class motorCycle {
+/*public class motorCycle {
     public static void main(String[] args){
         
         
@@ -71,3 +71,4 @@ public void setnoOfWheel(int noOfWheel){
 }
 
 
+*/
