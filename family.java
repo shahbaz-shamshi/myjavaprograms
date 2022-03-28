@@ -8,7 +8,7 @@
  *
  * @author shahbaz
  */
-public class AshrafBazmi {
+public class shahbaz {
     
     public static void main(String[] args){
     
